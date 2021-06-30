@@ -2,7 +2,7 @@
 
 # Hecho por:
 # Irina Kaminsky Castillo - A00827550
-#
+# Regina Vega Francia - A00572699
 #
 #
 
