@@ -64,11 +64,12 @@ def move():
 
     draw()
 
+
     for target in targets:
         if not inside(target):
-            return
+            target.x = 200 #inciso 2: Pelotas a la 'x' principal para que así no termine el juego 
 
-    ontimer(move, 50)
+    ontimer(move, 25) # Inciso 1: La velocidad del movimiento para el proyectil y los balones sea más rápida
 
 setup(420, 420, 370, 0)
 hideturtle()
