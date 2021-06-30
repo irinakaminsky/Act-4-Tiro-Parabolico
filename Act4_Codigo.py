@@ -3,7 +3,7 @@
 # Hecho por:
 # Irina Kaminsky Castillo - A00827550
 # Regina Vega Francia - A00572699
-#
+# Axel Uzeta Gomez - A00829417
 #
 
 
