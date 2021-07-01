@@ -4,7 +4,7 @@
 # Irina Kaminsky Castillo - A00827550
 # Regina Vega Francia - A00572699
 # Axel Uzeta Gomez - A00829417
-#
+# Edgar Zúñiga Sánchez - A01173698
 
 
 from random import randrange
